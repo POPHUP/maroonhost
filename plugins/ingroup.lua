@@ -1717,7 +1717,6 @@ return {
   "^[!/](promote) (.*)$",
   "^[!/](promote)",
  -- "^[!/](help)$",
-  "^[!/]([Tt]elemanager)$",
   "^[!/](clean) (.*)$",
   "^[!/](kill) (chat)$",
   "^[!/](kill) (realm)$",
